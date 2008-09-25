@@ -1,0 +1,111 @@
+#summary A collection of links to tools and code snippets that generate Sitemap files.
+#labels Featured
+
+= Introduction =
+
+The following are links to programs that support [http://sitemaps.org/ XML Sitemaps], an open standard also used in [http://www.google.com/webmasters/tools/ Google Webmaster Tools].
+
+Please Note: *Google has not tested or verified the features or security of the third party software listed on this site*. Please direct any questions regarding the software to the software's author. We hope you enjoy these plug-ins!
+
+
+= Programs/Code Snippets =
+
+  * [http://enarion.net/google/ phpSitemapsNG (PHP)] 
+  * [http://www.orvinfait.fr/scripts_web_performant.html PHP] (French)  
+  * [http://groups-beta.google.com/group/google-sitemaps/browse_thread/thread/83b34a59a05a104d/56ba5f933c7bdb70?q=perl&amp;rnum=2#56ba5f933c7bdb70 Perl] 
+  * [http://www.pointnetsolutions.com/en/groups/discussion/96.aspx C#] 
+  * [http://www.iteam5.net/francesco/sitemap_gen/ ASP] 
+  * [http://sitemap.chinookwebs.com/ Sitemap.net (ASP.net)] 
+  * [http://www.thozie.de/webmaster/frontpage/sitemap.htm In VBA for Frontpage 2003] 
+  * [http://www.smart-it-consulting.com/article.htm?node=154&amp;page=82 Simple Sitemaps (PHP)] 
+  * [http://guggemahier.de/text-23.phtml PHPNuke]   (German)  
+  * [http://www.softswot.com/sitemapinfo.php SiteMap XML Dynamic Sitemap Generator] 
+  * [http://cvs.sourceforge.net/viewcvs.py/wikipedia/phase3/maintenance/generateSitemap.php?rev=1.17&amp;sortby=date&amp;view=auto MediaWiki (PHP)] 
+  * [http://www.newtonsoft.com/Products/GoogleSiteMap/ Newtonsoft GoogleSitemap.NET (ASP.NET 2)] 
+  * [http://www.nextgd.com/gsmaster_index.php Google Sitemaps Master (PHP)] 
+  * [http://nukeseo.com/ NukeSEO Sitemaps Generator (PHP)] 
+  * [http://mapy.stron.pl/gsmaster_index.php PHP]   (Polish)  
+  * [http://www.phpclasses.org/browse/package/2612.html PHP package] 
+  * [http://googlebotsnacks.com/ Google Bot Snacks (ColdFusion)]   $  
+  * [http://code.google.com/p/perlsitemapgenerator/ Open Source Perl Sitemap Generator] 
+
+= CMS and Other Plugins =
+
+  * [http://ravenous.solidosystems.com/ Plugin for Ravenous] 
+  * [http://www.oscommerce.com/community/contributions,3226 Plugin for OS Commerce] 
+  * [http://www.arnebrachhold.de/2005/06/05/google-sitemaps-generator-v2-final Plugin for Wordpress] 
+  * [http://www.aeforums.net/forum/showthread.php?t=971#post11326 Plugin for vBulletin] 
+  * [http://forum.time2dine.co.nz/seo-vbulletin/vbulletin-google-site-map-3976.html Plugin for vBulletin (2)] 
+  * [http://armonia.spiral-static.org/?2005/06/14/50-generador-de-sitemaps-para-dotclear Plugin for DotClear]   (Spanish)  
+  * [http://coudert.free.fr/blog//index.php?2005/06/24/102-sitemap-for-dotclear Plugin for DotClear (2)] 
+  * [http://www.webmedic.net/released-phpbb-google-keyword-urls-sitemap-generator-161-vt25565.html Plugin for phpBB] 
+  * [http://plone.org/products/qplonegooglesitemaps Plugin for Plone] 
+  * [http://forum.textpattern.com/viewtopic.php?id=8818 Plugin for Textpattern] 
+  * [http://coppermine.sourceforge.net/board/index.php?topic=18749.0 Plugin for Coppermine] 
+  * [http://www.aatechservices.com/clickcartpro-xml-sitemap.html Plugin for ClickCartPro]   $  
+  * [http://www.pc4people.com/products.php?cat=57 Plugins for ECommerce Templates (PHP)]   $  
+  * [http:///www.webtressdesign.com/proddetail.asp?prod=gsm101 Plugin for Ecommerce Templates (PHP or ASP)]   $  
+  * [http://www.shopweezle.de/Startseite/featGoogleSitemap/Page.html Plugin for ShopWeezle]   (German)  
+  * [http://www.dmxzone.com/showDetail.asp?TypeId=3&amp;NewsId=10538 DreamWeaver plugin] 
+  * [http://wikka.jsnx.com/GoogleSitemap Wikka Wiki plugin] 
+  * [http://www.powernodes.com/cms.ashx/ PowerNodes CMS] 
+  * [http://www.musox.com/Downloads/details/id=39.html Dragonfly CMS] 
+  * [http://drupal.org/project/gsitemap Drupal module] 
+  * [http://wiki.lifetype.net/index.php/PLog_1.0/Plugins/sitemap Plugin for LifeType] 
+  * [http://www.vbseo.com/f44/vbseo-google-yahoo-sitemap-generator-vbulletin-3-5-x-vbulletin-3-0-x-2648/ Plugin for vBulletin forums] 
+  * [http://garbage-collector.typepad.com/monkey_in_the_jungle/2005/12/typepadbotsourc.html Bot for TypePad Atom feeds] 
+  * [http://www.elsop.com/pr2005_0719.html LinkScan 11.5] 
+  * [http://www.disputa.de/de/ Disputa PHP Bulletin Board]   (German)  
+  * [http://mapy.stron.pl/gsmaster_index.php Plugin for phpBB]   (Polish)  
+  * [http://nexecutive.de/ Nexecutive]   (German)  
+  * [http://sourceforge.net/projects/ms2sm Plugin for mnoGoSearch] 
+  * [http://www.kiesler.at/article232.html Plugin for phpWebSite] 
+  * [http://loghound.com/Sitemap/index.php Plugin for RapidWeaver] 
+
+= Downloadable Tools =
+
+  * [http://gsitecrawler.com/ GSiteCrawler]   (Windows)  
+  * [http://www.tipue.com/endsheet/ Tipue]   (Windows)  
+  * [http://www.sorrowman.org/sitemap-tools/ Sorrowmans Sitemap Tools]   (Windows)  
+  * [http://www.sitemappro.com/ Site Map Pro]   $   (Windows)  
+  * [http://www.likno.com/allwebmenusinfo.html AllWebMenus]   $   (Windows)  
+  * [http://trytobreak.com GWebCrawler &amp; Sitemap Creator]   $   (Windows)  
+  * [http://www.coffeecup.com/google-sitemapper/ CoffeeCup Sitemapper]   $   (Windows)  
+  * [http://www.vigos.com/products/gsitemap/ Gsitemap]   (Windows)  
+  * [http://www.xml-sitemaps.com/standalone-google-sitemap-generator.html PHP XML Sitemap Generator]   $   (Windows)  
+  * [http://www.mediacet.com/diadematus-google-sitemap/ MediaCET Diadematus]   (Windows)  
+  * [http://www.odinassemble.com Odin Assemble]   $   (Windows)  
+  * [http://www.ragesw.com/products/googlesitemap.html Rage Google Sitemap Automator]   $   (OSX)  
+  * [http://www.moonlight-software.com/mapit.htm Map-IT Sitemapper]   $   (Windows, Mac)  
+  * [http://www.brianpautsch.com/ShowItem25.aspx GoogleSitemapsWin]   (Windows)  
+  * [http://devintelligence.com/sitemapgenerator/ Devintelligence SitemapGenerator]   (Windows)  
+  * [http://www.dbnetsolutions.co.uk/gmapper/ G-Mapper]   (Windows)  
+  * [http://www.intelli-mapper.com/ IntelliMapper]   (Windows)  
+  * [http://www.nexusion.com/sitemapper.html GY SiteMapper]   (Windows)  
+  * [http://www.sitemagellan.com/ Site Magellen]   (Windows)  
+  * [http://www.micro-sys.dk/products/sitemap-generator/ A1 Sitemap Generator]   $   (Windows)  
+
+= Online Generators =
+
+  * [http://www.sitemapspal.com/ Sitemapspal] 
+  * [http://www.googen.eu.tt/ PortalApp Generator] 
+  * [http://sitemap.peterz.info/home.php Peterz.de]   (German)  
+  * [http://www.autositemap.com/ Autositemap] 
+  * [http://www.tarrantit.com/GoogleSiteMap/ Tarrant.it Sitemap Generator] 
+  * [http://www.xml-sitemaps.com/ XML-Sitemaps Generator] 
+  * [http://www.resourceseo.com/sitemaps.php Hockeygods Online Sitemap Generator] 
+  * [http://www.nuah.com/google-sitemap-generator/ Nuah Online Generator] 
+  * [http://pingoat.com/goat/google_sitemap Pingoat Sitemap Creator] 
+  * [http://nodemap.com/sitemap-service.php Node Map Sitemap XML Creation Service]   $  
+  * [http://www.neuroticweb.com/recursos/sitemap/ Neuroticweb.com Sitemap Generator] 
+  * [http://www.auditmypc.com/free-sitemap-generator.asp AudiMyPc.com Sitemap Generator] 
+  * [http://www.web-design-pros.ca/software/sitemapGenerator.html Web-design-pros.ca Sitemap.xml.gz Generator]   (Java Webstart Application)  
+  * [http://www.freesitemapgenerator.com/ Free Sitemap Generator] 
+  * [http://enarion.net/google/phpsitemapng/crawler/ phpSitemapsNG] 
+  * [http://www.scriptsocket.com/sitemaps.php ScriptSocket Sitemap Generator ] 
+  * [http://www.smart-it-consulting.com/internet/google/submit-validate-sitemap/ Google Sitemaps XML Validator] 
+  * [http://www.smart-it-consulting.com/google-sitemaps.htm Google Sitemaps Information Center] 
+  * [http://www.automapit.com/googlesitemaps.html AutoMapIt] 
+  * [http://www.safearea.com.au/web1/opencms/Products/SitemapGen/ Safe Area] 
+
+If you believe that a plug-in should be removed for a legitimate reason, please [mailto:code+sitemaps@google.com contact us].
