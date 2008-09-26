@@ -56,28 +56,22 @@ Please Note: *Google has not tested or verified the features or security of the 
   * [http://www.sitemappro.com/ Site Map Pro] (Windows) $
   * [http://www.sorrowman.org/sitemap-tools/ Sorrowmans Sitemap Tools] (Windows)
   * [http://www.vigos.com/products/gsitemap/ Vigos Gsitemap] (Windows)
+  * [http://www.web-design-pros.ca/software/sitemapGenerator.html Web-design-pros.ca Sitemap.xml.gz Generator] (Java Webstart Application)
 
 = Online Generators/Services =
-  * [http://www.sitemapspal.com/ Sitemapspal] 
-  * [http://www.googen.eu.tt/ PortalApp Generator] 
-  * [http://sitemap.peterz.info/home.php Peterz.de] (German)  
-  * [http://www.autositemap.com/ Autositemap] 
-  * [http://www.tarrantit.com/GoogleSiteMap/ Tarrant.it Sitemap Generator] 
-  * [http://www.xml-sitemaps.com/ XML-Sitemaps Generator] 
-  * [http://www.resourceseo.com/sitemaps.php Hockeygods Online Sitemap Generator] 
-  * [http://www.nuah.com/google-sitemap-generator/ Nuah Online Generator] 
-  * [http://pingoat.com/goat/google_sitemap Pingoat Sitemap Creator] 
-  * [http://nodemap.com/sitemap-service.php Node Map Sitemap XML Creation Service]   $  
-  * [http://www.neuroticweb.com/recursos/sitemap/ Neuroticweb.com Sitemap Generator] 
-  * [http://www.auditmypc.com/free-sitemap-generator.asp AudiMyPc.com Sitemap Generator] 
-  * [http://www.web-design-pros.ca/software/sitemapGenerator.html Web-design-pros.ca Sitemap.xml.gz Generator]   (Java Webstart Application)  
-  * [http://www.freesitemapgenerator.com/ Free Sitemap Generator] 
-  * [http://enarion.net/google/phpsitemapng/crawler/ phpSitemapsNG] 
-  * [http://www.scriptsocket.com/sitemaps.php ScriptSocket Sitemap Generator ] 
-  * [http://www.smart-it-consulting.com/internet/google/submit-validate-sitemap/ Google Sitemaps XML Validator] 
-  * [http://www.smart-it-consulting.com/google-sitemaps.htm Google Sitemaps Information Center] 
+  * [http://www.auditmypc.com/free-sitemap-generator.asp AuditMyPc.com Sitemap Generator] 
   * [http://www.automapit.com/googlesitemaps.html AutoMapIt] 
-  * [http://www.safearea.com.au/web1/opencms/Products/SitemapGen/ Safe Area] 
+  * [http://www.autositemap.com/ Autositemap] $
+  * [http://enarion.net/google/phpsitemapng/crawler/ Enarion phpSitemapsNG] 
+  * [http://www.freesitemapgenerator.com/ Free Sitemap Generator] 
+  * [http://www.neuroticweb.com/recursos/sitemap/ Neuroticweb.com Sitemap Generator] 
+  * [http://www.safearea.com.au/web1/opencms/Products/SitemapGen/ Safe Area SitemapGenerator] 
+  * [http://www.scriptsocket.com/sitemaps.php ScriptSocket Sitemap Generator ] 
+  * [http://www.resourceseo.com/sitemaps.php ResourceSEO Online Sitemap Generator] 
+  * [http://www.sitemapdoc.com/ SitemapDoc] 
+  * [http://www.sitemapspal.com/ Sitemapspal] 
+  * [http://www.smart-it-consulting.com/internet/google/submit-validate-sitemap/ Smart-IT-Consulting Google Sitemaps XML Validator] 
+  * [http://www.xml-sitemaps.com/ XML-Sitemaps Generator]
 
 = Code Snippets =
   * [http://groups-beta.google.com/group/google-sitemaps/browse_thread/thread/83b34a59a05a104d/56ba5f933c7bdb70?q=perl&amp;rnum=2#56ba5f933c7bdb70 Perl script] 
