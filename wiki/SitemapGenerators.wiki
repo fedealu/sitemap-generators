@@ -9,13 +9,13 @@ Please Note: *Google has not tested or verified the features or security of the 
 
 
 = Server-side Programs =
-  * [http://enarion.net/google/ phpSitemapsNG] (PHP)
+  * [http://enarion.net/google/ Enarion phpSitemapsNG] (PHP)
+  * [http://mapy.stron.pl/gsmaster_index.php GS Master] (Polish, PHP/Perl)  
   * [http://www.orvinfait.fr/generateur_sitmap_version.html Outil en PHP] (French, PHP)
+  * [http://code.google.com/p/perlsitemapgenerator/ Perl Sitemap Generator] (Perl)
+  * [http://code.google.com/p/sitemap-generators/ Python Sitemap Generator] (Python)
   * [http://www.smart-it-consulting.com/article.htm?node=154&amp;page=82 Simple Sitemaps] (PHP)
   * [http://www.softswot.com/sitemapinfo.php SiteMap XML Dynamic Sitemap Generator] (PHP) $
-  * [http://mapy.stron.pl/gsmaster_index.php GS Master] (Polish, PHP/Perl)  
-  * [http://code.google.com/p/perlsitemapgenerator/ Perl Sitemap Generator] (Perl)
-  * [http://code.google.com/p/sitemap-generators/ This Python Sitemap Generator] (Python)
   * [http://www.xml-sitemaps.com/standalone-google-sitemap-generator.html XML Sitemap Generator] (PHP) $
 
 = CMS and Other Plugins =
