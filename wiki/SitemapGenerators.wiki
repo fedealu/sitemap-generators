@@ -3,33 +3,26 @@
 
 = Introduction =
 
-The following are links to programs that support [http://sitemaps.org/ XML Sitemaps], an open standard also used in [http://www.google.com/webmasters/tools/ Google Webmaster Tools].
+The following are links to tools that support [http://sitemaps.org/ XML Sitemaps], an open standard also used in [http://www.google.com/webmasters/tools/ Google Webmaster Tools]. These tools generally generate "web-type" XML Sitemap and URL-list files, though some of them support other formats as well.
 
-Please Note: *Google has not tested or verified the features or security of the third party software listed on this site*. Please direct any questions regarding the software to the software's author. We hope you enjoy these plug-ins!
+Please Note: *Google has not tested or verified the features or security of the third party software listed on this site*. Please direct any questions regarding the software to the software's author. We hope you enjoy these tools!
 
 
-= Programs/Code Snippets =
+= Server-side Programs =
 
-  * [http://enarion.net/google/ phpSitemapsNG (PHP)] 
-  * [http://www.orvinfait.fr/scripts_web_performant.html PHP] (French)  
-  * [http://groups-beta.google.com/group/google-sitemaps/browse_thread/thread/83b34a59a05a104d/56ba5f933c7bdb70?q=perl&amp;rnum=2#56ba5f933c7bdb70 Perl] 
-  * [http://www.pointnetsolutions.com/en/groups/discussion/96.aspx C#] 
-  * [http://www.iteam5.net/francesco/sitemap_gen/ ASP] 
-  * [http://sitemap.chinookwebs.com/ Sitemap.net (ASP.net)] 
-  * [http://www.thozie.de/webmaster/frontpage/sitemap.htm In VBA for Frontpage 2003] 
-  * [http://www.smart-it-consulting.com/article.htm?node=154&amp;page=82 Simple Sitemaps (PHP)] 
-  * [http://guggemahier.de/text-23.phtml PHPNuke]   (German)  
-  * [http://www.softswot.com/sitemapinfo.php SiteMap XML Dynamic Sitemap Generator] 
-  * [http://cvs.sourceforge.net/viewcvs.py/wikipedia/phase3/maintenance/generateSitemap.php?rev=1.17&amp;sortby=date&amp;view=auto MediaWiki (PHP)] 
-  * [http://www.newtonsoft.com/Products/GoogleSiteMap/ Newtonsoft GoogleSitemap.NET (ASP.NET 2)] 
-  * [http://www.nextgd.com/gsmaster_index.php Google Sitemaps Master (PHP)] 
-  * [http://nukeseo.com/ NukeSEO Sitemaps Generator (PHP)] 
-  * [http://mapy.stron.pl/gsmaster_index.php PHP]   (Polish)  
-  * [http://www.phpclasses.org/browse/package/2612.html PHP package] 
-  * [http://googlebotsnacks.com/ Google Bot Snacks (ColdFusion)]   $  
-  * [http://code.google.com/p/perlsitemapgenerator/ Open Source Perl Sitemap Generator] 
+  * [http://enarion.net/google/ phpSitemapsNG] (PHP)
+  * [http://www.orvinfait.fr/generateur_sitmap_version.html Outil en PHP] (French, PHP)
+  * [http://www.smart-it-consulting.com/article.htm?node=154&amp;page=82 Simple Sitemaps] (PHP)
+  * [http://www.softswot.com/sitemapinfo.php SiteMap XML Dynamic Sitemap Generator] $
+  * [http://mapy.stron.pl/gsmaster_index.php GS Master] (Polish, PHP/Perl)  
+  * [http://code.google.com/p/perlsitemapgenerator/ Perl Sitemap Generator] 
+  * [http://code.google.com/p/sitemap-generators/ This Python Sitemap Generator]
 
 = CMS and Other Plugins =
+
+  * [http://guggemahier.de/text-23.phtml PHPNuke] (German)
+  * [http://james.newtonking.com/projects/sitemaps-net.aspx Sitemaps.Net] (ASP.NET)
+  * [http://nukeseo.com/ NukeSEO Sitemaps Generator for PHPNuke] 
 
   * [http://ravenous.solidosystems.com/ Plugin for Ravenous] 
   * [http://www.oscommerce.com/community/contributions,3226 Plugin for OS Commerce] 
@@ -107,5 +100,11 @@ Please Note: *Google has not tested or verified the features or security of the 
   * [http://www.smart-it-consulting.com/google-sitemaps.htm Google Sitemaps Information Center] 
   * [http://www.automapit.com/googlesitemaps.html AutoMapIt] 
   * [http://www.safearea.com.au/web1/opencms/Products/SitemapGen/ Safe Area] 
+
+= Code Snippets =
+
+  * [http://groups-beta.google.com/group/google-sitemaps/browse_thread/thread/83b34a59a05a104d/56ba5f933c7bdb70?q=perl&amp;rnum=2#56ba5f933c7bdb70 Perl script] 
+  * [http://www.iteam5.net/francesco/sitemap_gen/ ASP] 
+  * [http://www.phpclasses.org/browse/package/2612.html PHP class] 
 
 If you believe that a plug-in should be removed for a legitimate reason, please [mailto:code+sitemaps@google.com contact us].
