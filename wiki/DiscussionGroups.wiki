@@ -1,4 +1,5 @@
 #summary A list of discussion groups with webmasters using sitemaps.org Sitemap files
+#labels Featured
 
 = Introduction =
 
