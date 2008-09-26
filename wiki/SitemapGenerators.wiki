@@ -3,7 +3,7 @@
 
 = Introduction =
 
-The following are links to tools that support [http://sitemaps.org/ XML Sitemaps], an open standard also used in [http://www.google.com/webmasters/tools/ Google Webmaster Tools]. These tools generally generate "web-type" XML Sitemap and URL-list files (some may also support other formats).
+The following are links to tools that generate or maintain files in the XML Sitemaps format, an open standard defined on [http://sitemaps.org/ sitemaps.org] and supported by the search engines such as Ask, Google, Microsoft Live Search and Yahoo!. Sitemap files generally contain a collection of URLs on a website along with some meta-data for these URLs. The following tools generally generate "web-type" XML Sitemap and URL-list files (some may also support other formats).
 
 Please Note: *Google has not tested or verified the features or security of the third party software listed on this site*. Please direct any questions regarding the software to the software's author. We hope you enjoy these tools!
 
