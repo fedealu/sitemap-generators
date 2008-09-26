@@ -16,6 +16,7 @@ Please Note: *Google has not tested or verified the features or security of the 
   * [http://mapy.stron.pl/gsmaster_index.php GS Master] (Polish, PHP/Perl)  
   * [http://code.google.com/p/perlsitemapgenerator/ Perl Sitemap Generator] (Perl)
   * [http://code.google.com/p/sitemap-generators/ This Python Sitemap Generator] (Python)
+  * [http://www.xml-sitemaps.com/standalone-google-sitemap-generator.html XML Sitemap Generator] (PHP) $
 
 = CMS and Other Plugins =
   * [http://james.newtonking.com/projects/sitemaps-net.aspx ASP.NET - Sitemaps.Net]
@@ -40,30 +41,23 @@ Please Note: *Google has not tested or verified the features or security of the 
   * [http://www.arnebrachhold.de/projects/wordpress-plugins/google-xml-sitemaps-generator/ WordPress] 
 
 = Downloadable Tools =
-
-  * [http://gsitecrawler.com/ GSiteCrawler]   (Windows)  
-  * [http://www.tipue.com/endsheet/ Tipue]   (Windows)  
-  * [http://www.sorrowman.org/sitemap-tools/ Sorrowmans Sitemap Tools]   (Windows)  
-  * [http://www.sitemappro.com/ Site Map Pro]   $   (Windows)  
-  * [http://www.likno.com/allwebmenusinfo.html AllWebMenus]   $   (Windows)  
-  * [http://trytobreak.com GWebCrawler &amp; Sitemap Creator]   $   (Windows)  
-  * [http://www.coffeecup.com/google-sitemapper/ CoffeeCup Sitemapper]   $   (Windows)  
-  * [http://www.vigos.com/products/gsitemap/ Gsitemap]   (Windows)  
-  * [http://www.xml-sitemaps.com/standalone-google-sitemap-generator.html PHP XML Sitemap Generator]   $   (Windows)  
-  * [http://www.mediacet.com/diadematus-google-sitemap/ MediaCET Diadematus]   (Windows)  
-  * [http://www.odinassemble.com Odin Assemble]   $   (Windows)  
-  * [http://www.ragesw.com/products/googlesitemap.html Rage Google Sitemap Automator]   $   (OSX)  
-  * [http://www.moonlight-software.com/mapit.htm Map-IT Sitemapper]   $   (Windows, Mac)  
-  * [http://www.brianpautsch.com/ShowItem25.aspx GoogleSitemapsWin]   (Windows)  
-  * [http://devintelligence.com/sitemapgenerator/ Devintelligence SitemapGenerator]   (Windows)  
-  * [http://www.dbnetsolutions.co.uk/gmapper/ G-Mapper]   (Windows)  
-  * [http://www.intelli-mapper.com/ IntelliMapper]   (Windows)  
-  * [http://www.nexusion.com/sitemapper.html GY SiteMapper]   (Windows)  
-  * [http://www.sitemagellan.com/ Site Magellen]   (Windows)  
-  * [http://www.micro-sys.dk/products/sitemap-generator/ A1 Sitemap Generator] $ (Windows)  
+  * [http://www.coffeecup.com/google-sitemapper/ CoffeeCup Sitemapper] (Windows) $
+  * [http://devintelligence.com/sitemapgenerator/ Devintelligence SitemapGenerator] (Windows)
+  * [http://gsitecrawler.com/ GSiteCrawler] (Windows)
+  * [http://trytobreak.com GWebCrawler &amp; Sitemap Creator] (Windows)  
+  * [http://www.dbnetsolutions.co.uk/gmapper/ G-Mapper] (Windows)
+  * [http://www.intelli-mapper.com/ IntelliMapper] (Windows) $
+  * [http://www.brianpautsch.com/ShowItem25.aspx KeyLimeTie Sitemap Generator] (Windows) $ 
+  * [http://www.moonlight-software.com/mapit.htm Map-IT Sitemapper] (Windows, Mac) $
+  * [http://www.mediacet.com/diadematus-google-sitemap/ MediaCET Diadematus] (Windows)
+  * [http://www.micro-sys.dk/products/sitemap-generator/ Microsys A1 Sitemap Generator] (Windows) $
+  * [http://www.ragesw.com/products/googlesitemap.html Rage Google Sitemap Automator] $ (OS-X)
+  * [http://www.sitemagellan.com/ Site Magellen] (Windows)
+  * [http://www.sitemappro.com/ Site Map Pro] (Windows) $
+  * [http://www.sorrowman.org/sitemap-tools/ Sorrowmans Sitemap Tools] (Windows)
+  * [http://www.vigos.com/products/gsitemap/ Vigos Gsitemap] (Windows)
 
 = Online Generators/Services =
-
   * [http://www.sitemapspal.com/ Sitemapspal] 
   * [http://www.googen.eu.tt/ PortalApp Generator] 
   * [http://sitemap.peterz.info/home.php Peterz.de] (German)  
@@ -86,7 +80,6 @@ Please Note: *Google has not tested or verified the features or security of the 
   * [http://www.safearea.com.au/web1/opencms/Products/SitemapGen/ Safe Area] 
 
 = Code Snippets =
-
   * [http://groups-beta.google.com/group/google-sitemaps/browse_thread/thread/83b34a59a05a104d/56ba5f933c7bdb70?q=perl&amp;rnum=2#56ba5f933c7bdb70 Perl script] 
   * [http://www.iteam5.net/francesco/sitemap_gen/ ASP script] 
   * [http://www.phpclasses.org/browse/package/2612.html PHP class] 
