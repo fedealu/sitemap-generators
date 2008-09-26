@@ -9,51 +9,35 @@ Please Note: *Google has not tested or verified the features or security of the 
 
 
 = Server-side Programs =
-
   * [http://enarion.net/google/ phpSitemapsNG] (PHP)
   * [http://www.orvinfait.fr/generateur_sitmap_version.html Outil en PHP] (French, PHP)
   * [http://www.smart-it-consulting.com/article.htm?node=154&amp;page=82 Simple Sitemaps] (PHP)
-  * [http://www.softswot.com/sitemapinfo.php SiteMap XML Dynamic Sitemap Generator] $
+  * [http://www.softswot.com/sitemapinfo.php SiteMap XML Dynamic Sitemap Generator] (PHP) $
   * [http://mapy.stron.pl/gsmaster_index.php GS Master] (Polish, PHP/Perl)  
-  * [http://code.google.com/p/perlsitemapgenerator/ Perl Sitemap Generator] 
-  * [http://code.google.com/p/sitemap-generators/ This Python Sitemap Generator]
+  * [http://code.google.com/p/perlsitemapgenerator/ Perl Sitemap Generator] (Perl)
+  * [http://code.google.com/p/sitemap-generators/ This Python Sitemap Generator] (Python)
 
 = CMS and Other Plugins =
-
+  * [http://james.newtonking.com/projects/sitemaps-net.aspx ASP.NET - Sitemaps.Net]
+  * [http://www.aatechservices.com/clickcartpro-xml-sitemap.html ClickCartPro] $
+  * [http://coppermine.sourceforge.net/board/index.php?topic=18749.0 Coppermine] 
+  * [http://armonia.spiral-static.org/?2005/06/14/50-generador-de-sitemaps-para-dotclear DotClear] (Spanish)  
+  * [http://coudert.free.fr/blog//index.php?2005/06/24/102-sitemap-for-dotclear DotClear (2)]
+  * [http://drupal.org/project/xmlsitemap Drupal] 
+  * [http://www.pc4people.com/products.php?cat=57 ECommerce Templates (PHP)] $
+  * [http:///www.webtressdesign.com/proddetail.asp?prod=gsm101 Ecommerce Templates (PHP or ASP)] $
+  * [http://wiki.lifetype.net/index.php/PLog_1.0/Plugins/sitemap LifeType] 
+  * [http://sourceforge.net/projects/ms2sm mnoGoSearch] 
+  * [http://www.oscommerce.com/community/contributions,3226 OS Commerce] 
   * [http://guggemahier.de/text-23.phtml PHPNuke] (German)
-  * [http://james.newtonking.com/projects/sitemaps-net.aspx Sitemaps.Net] (ASP.NET)
-  * [http://nukeseo.com/ NukeSEO Sitemaps Generator for PHPNuke] 
-
-  * [http://ravenous.solidosystems.com/ Plugin for Ravenous] 
-  * [http://www.oscommerce.com/community/contributions,3226 Plugin for OS Commerce] 
-  * [http://www.arnebrachhold.de/2005/06/05/google-sitemaps-generator-v2-final Plugin for Wordpress] 
-  * [http://www.aeforums.net/forum/showthread.php?t=971#post11326 Plugin for vBulletin] 
-  * [http://forum.time2dine.co.nz/seo-vbulletin/vbulletin-google-site-map-3976.html Plugin for vBulletin (2)] 
-  * [http://armonia.spiral-static.org/?2005/06/14/50-generador-de-sitemaps-para-dotclear Plugin for DotClear]   (Spanish)  
-  * [http://coudert.free.fr/blog//index.php?2005/06/24/102-sitemap-for-dotclear Plugin for DotClear (2)] 
-  * [http://www.webmedic.net/released-phpbb-google-keyword-urls-sitemap-generator-161-vt25565.html Plugin for phpBB] 
-  * [http://plone.org/products/qplonegooglesitemaps Plugin for Plone] 
-  * [http://forum.textpattern.com/viewtopic.php?id=8818 Plugin for Textpattern] 
-  * [http://coppermine.sourceforge.net/board/index.php?topic=18749.0 Plugin for Coppermine] 
-  * [http://www.aatechservices.com/clickcartpro-xml-sitemap.html Plugin for ClickCartPro]   $  
-  * [http://www.pc4people.com/products.php?cat=57 Plugins for ECommerce Templates (PHP)]   $  
-  * [http:///www.webtressdesign.com/proddetail.asp?prod=gsm101 Plugin for Ecommerce Templates (PHP or ASP)]   $  
-  * [http://www.shopweezle.de/Startseite/featGoogleSitemap/Page.html Plugin for ShopWeezle]   (German)  
-  * [http://www.dmxzone.com/showDetail.asp?TypeId=3&amp;NewsId=10538 DreamWeaver plugin] 
-  * [http://wikka.jsnx.com/GoogleSitemap Wikka Wiki plugin] 
-  * [http://www.powernodes.com/cms.ashx/ PowerNodes CMS] 
-  * [http://www.musox.com/Downloads/details/id=39.html Dragonfly CMS] 
-  * [http://drupal.org/project/gsitemap Drupal module] 
-  * [http://wiki.lifetype.net/index.php/PLog_1.0/Plugins/sitemap Plugin for LifeType] 
-  * [http://www.vbseo.com/f44/vbseo-google-yahoo-sitemap-generator-vbulletin-3-5-x-vbulletin-3-0-x-2648/ Plugin for vBulletin forums] 
-  * [http://garbage-collector.typepad.com/monkey_in_the_jungle/2005/12/typepadbotsourc.html Bot for TypePad Atom feeds] 
-  * [http://www.elsop.com/pr2005_0719.html LinkScan 11.5] 
-  * [http://www.disputa.de/de/ Disputa PHP Bulletin Board]   (German)  
-  * [http://mapy.stron.pl/gsmaster_index.php Plugin for phpBB]   (Polish)  
-  * [http://nexecutive.de/ Nexecutive]   (German)  
-  * [http://sourceforge.net/projects/ms2sm Plugin for mnoGoSearch] 
-  * [http://www.kiesler.at/article232.html Plugin for phpWebSite] 
-  * [http://loghound.com/Sitemap/index.php Plugin for RapidWeaver] 
+  * [http://nukeseo.com/ PHPNuke - NukeSEO Sitemaps Generator] 
+  * [http://www.kiesler.at/article232.html phpWebSite] 
+  * [http://plone.org/products/qplonegooglesitemaps Plone] 
+  * [http://loghound.com/Sitemap/index.php RapidWeaver] 
+  * [http://forum.textpattern.com/viewtopic.php?id=27212 Textpattern] 
+  * [http://www.vbseo.com/f44/vbseo-google-yahoo-sitemap-generator-vbulletin-3-5-x-vbulletin-3-0-x-2648/ vBulletin] 
+  * [http://wikka.jsnx.com/GoogleSitemap Wikka Wiki] (PHP)
+  * [http://www.arnebrachhold.de/projects/wordpress-plugins/google-xml-sitemaps-generator/ WordPress] 
 
 = Downloadable Tools =
 
@@ -76,13 +60,13 @@ Please Note: *Google has not tested or verified the features or security of the 
   * [http://www.intelli-mapper.com/ IntelliMapper]   (Windows)  
   * [http://www.nexusion.com/sitemapper.html GY SiteMapper]   (Windows)  
   * [http://www.sitemagellan.com/ Site Magellen]   (Windows)  
-  * [http://www.micro-sys.dk/products/sitemap-generator/ A1 Sitemap Generator]   $   (Windows)  
+  * [http://www.micro-sys.dk/products/sitemap-generator/ A1 Sitemap Generator] $ (Windows)  
 
-= Online Generators =
+= Online Generators/Services =
 
   * [http://www.sitemapspal.com/ Sitemapspal] 
   * [http://www.googen.eu.tt/ PortalApp Generator] 
-  * [http://sitemap.peterz.info/home.php Peterz.de]   (German)  
+  * [http://sitemap.peterz.info/home.php Peterz.de] (German)  
   * [http://www.autositemap.com/ Autositemap] 
   * [http://www.tarrantit.com/GoogleSiteMap/ Tarrant.it Sitemap Generator] 
   * [http://www.xml-sitemaps.com/ XML-Sitemaps Generator] 
@@ -104,7 +88,7 @@ Please Note: *Google has not tested or verified the features or security of the 
 = Code Snippets =
 
   * [http://groups-beta.google.com/group/google-sitemaps/browse_thread/thread/83b34a59a05a104d/56ba5f933c7bdb70?q=perl&amp;rnum=2#56ba5f933c7bdb70 Perl script] 
-  * [http://www.iteam5.net/francesco/sitemap_gen/ ASP] 
+  * [http://www.iteam5.net/francesco/sitemap_gen/ ASP script] 
   * [http://www.phpclasses.org/browse/package/2612.html PHP class] 
 
-If you believe that a plug-in should be removed for a legitimate reason, please [mailto:code+sitemaps@google.com contact us].
+If you believe that a tool should be removed for a legitimate reason, please [mailto:code+sitemaps@google.com contact us].
