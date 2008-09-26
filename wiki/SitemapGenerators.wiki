@@ -44,7 +44,7 @@ Please Note: *Google has not tested or verified the features or security of the 
   * [http://www.coffeecup.com/google-sitemapper/ CoffeeCup Sitemapper] (Windows) $
   * [http://devintelligence.com/sitemapgenerator/ Devintelligence SitemapGenerator] (Windows)
   * [http://gsitecrawler.com/ GSiteCrawler] (Windows)
-  * [http://trytobreak.com GWebCrawler &amp; Sitemap Creator] (Windows)  
+  * [http://trytobreak.com GWebCrawler & Sitemap Creator] (Windows)  
   * [http://www.dbnetsolutions.co.uk/gmapper/ G-Mapper] (Windows)
   * [http://www.intelli-mapper.com/ IntelliMapper] (Windows) $
   * [http://www.brianpautsch.com/ShowItem25.aspx KeyLimeTie Sitemap Generator] (Windows) $ 
