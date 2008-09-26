@@ -78,4 +78,4 @@ Please Note: *Google has not tested or verified the features or security of the 
   * [http://www.iteam5.net/francesco/sitemap_gen/ ASP script] 
   * [http://www.phpclasses.org/browse/package/2612.html PHP class] 
 
-If you believe that a tool should be removed for a legitimate reason, please [mailto:code+sitemaps@google.com contact us].
+If you believe that a tool should be added or removed for a legitimate reason, please leave a comment below.
