@@ -74,7 +74,8 @@ Please Note: *Google has not tested or verified the features or security of the 
   * [http://www.smart-it-consulting.com/internet/google/submit-validate-sitemap/ Smart-IT-Consulting Google Sitemaps XML Validator] 
   * [http://www.xml-sitemaps.com/ XML-Sitemaps Generator]
 
-= Code Snippets =
+= Code Snippets / Libraries =
+  * [http://code.google.com/p/sitemapgen4j/ Java library]
   * [http://groups-beta.google.com/group/google-sitemaps/browse_thread/thread/83b34a59a05a104d/56ba5f933c7bdb70?q=perl&amp;rnum=2#56ba5f933c7bdb70 Perl script] 
   * [http://www.iteam5.net/francesco/sitemap_gen/ ASP script] 
   * [http://www.phpclasses.org/browse/package/2612.html PHP class] 
