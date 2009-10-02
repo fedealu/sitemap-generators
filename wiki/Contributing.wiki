@@ -4,17 +4,17 @@ Here you will find information that you'll need to be able to contribute to this
 
 = Before you contribute =
 
-Before you start working on a larger contribution you should get in touch with us first through the [http://groups.google.com/group/google-help-forum-tweaks mailing list] so we can help out and possibly guide you; coordinating up front makes it much easier to avoid frustration later on.
+Before you start working on a larger contribution you should get in touch with us first through the mailing list so we can help out and possibly guide you; coordinating up front makes it much easier to avoid frustration later on.
 
 = Getting the code =
 
 To get a read-only version of the code use:
 
-{{{svn checkout http://google-help-forum-tweaks.googlecode.com/svn/trunk/ google-help-forum-tweaks}}}
+{{{svn checkout http://sitemap-generators.googlecode.com/svn/trunk/ sitemap-generators}}}
 
 If you're a member of the project you can get a writable version over HTTPS:
 
-{{{svn checkout https://google-help-forum-tweaks.googlecode.com/svn/trunk/ google-help-forum-tweaks --username <your username>}}}
+{{{svn checkout https://sitemap-generators.googlecode.com/svn/trunk/ sitemap-generators --username <your username>}}}
 
 This requires your [http://code.google.com/hosting/settings generated googlecode.com password].
 
