@@ -29,6 +29,7 @@ Please Note: *Google has not tested or verified the features or security of the 
   * [http://www.pc4people.com/products.php?cat=57 ECommerce Templates (PHP)] $
   * [http:///www.webtressdesign.com/proddetail.asp?prod=gsm101 Ecommerce Templates (PHP or ASP)] $
   * [http://wiki.lifetype.net/index.php/PLog_1.0/Plugins/sitemap LifeType] 
+  * [http://www.mediawiki.org/wiki/Manual:GenerateSitemap.php MediaWiki Sitemap generator] 
   * [http://sourceforge.net/projects/ms2sm mnoGoSearch] 
   * [http://www.oscommerce.com/community/contributions,3226 OS Commerce] 
   * [http://guggemahier.de/text-23.phtml PHPNuke] (German)
@@ -44,6 +45,7 @@ Please Note: *Google has not tested or verified the features or security of the 
 = Downloadable Tools =
   * [http://www.coffeecup.com/google-sitemapper/ CoffeeCup Sitemapper] (Windows) $
   * [http://devintelligence.com/sitemapgenerator/ Devintelligence SitemapGenerator] (Windows)
+  * [http://www.expressionextras.com/toolbar/sitemap_builder.htm Expression Web Sitemap Builder] (Windows) $
   * [http://gsitecrawler.com/ GSiteCrawler] (Windows)
   * [http://trytobreak.com GWebCrawler & Sitemap Creator] (Windows)  
   * [http://www.dbnetsolutions.co.uk/gmapper/ G-Mapper] (Windows)
@@ -56,7 +58,10 @@ Please Note: *Google has not tested or verified the features or security of the 
   * [http://www.ragesw.com/products/googlesitemap.html Rage Google Sitemap Automator] $ (OS-X)
   * [http://www.sitemagellan.com/ Site Magellen] (Windows)
   * [http://www.sitemappro.com/ Site Map Pro] (Windows) $
+  * [http://www.sitemapwriter.com/ Sitemap Writer] (Windows) $
+  * [http://devintelligence.com/sitemapgenerator/ Sitemap Generator by DevIntelligence] (Windows)
   * [http://www.sorrowman.org/sitemap-tools/ Sorrowmans Sitemap Tools] (Windows)
+  * [http://www.thesitemapper.com/ TheSiteMapper] (Windows) $
   * [http://www.vigos.com/products/gsitemap/ Vigos Gsitemap] (Windows)
   * [http://www.web-design-pros.ca/software/sitemapGenerator.html Web-design-pros.ca Sitemap.xml.gz Generator] (Java Webstart Application)
 
@@ -68,17 +73,22 @@ Please Note: *Google has not tested or verified the features or security of the 
   * [http://www.freesitemapgenerator.com/ Free Sitemap Generator] 
   * [http://www.neuroticweb.com/recursos/sitemap/ Neuroticweb.com Sitemap Generator] 
   * [http://www.safearea.com.au/web1/opencms/Products/SitemapGen/ Safe Area SitemapGenerator] 
-  * [http://www.scriptsocket.com/sitemaps.php ScriptSocket Sitemap Generator ] 
   * [http://www.resourceseo.com/sitemaps.php ResourceSEO Online Sitemap Generator] 
+  * [http://www.addme.com/ror-sitemap-generator.htm ROR Sitemap Generator] 
+  * [http://www.scriptsocket.com/sitemaps.php ScriptSocket Sitemap Generator ] 
+  * [http://www.seoutility.com/it/tools/google/sitemap_generator.aspx SeoUtility Sitemap Generator] (Italian)
   * [http://www.sitemapdoc.com/ SitemapDoc] 
   * [http://www.sitemapspal.com/ Sitemapspal] 
+  * [http://www.sitemapsubmit.net/generate-sitemap SitemapSubmit] 
   * [http://www.smart-it-consulting.com/internet/google/submit-validate-sitemap/ Smart-IT-Consulting Google Sitemaps XML Validator] 
   * [http://www.xml-sitemaps.com/ XML-Sitemaps Generator]
 
 = Code Snippets / Libraries =
+  * [http://www.iteam5.net/francesco/sitemap_gen/ ASP script] 
+  * [http://xahlee.org/emacs/make_sitemap.html Emacs Lisp script] 
   * [http://code.google.com/p/sitemapgen4j/ Java library]
   * [http://groups-beta.google.com/group/google-sitemaps/browse_thread/thread/83b34a59a05a104d/56ba5f933c7bdb70?q=perl&amp;rnum=2#56ba5f933c7bdb70 Perl script] 
-  * [http://www.iteam5.net/francesco/sitemap_gen/ ASP script] 
   * [http://www.phpclasses.org/browse/package/2612.html PHP class] 
+  * [http://www.bin-co.com/php/programs/tools/sitemap_generator/ PHP generator script] 
 
 If you believe that a tool should be added or removed for a legitimate reason, please leave a comment below.
