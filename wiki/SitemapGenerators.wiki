@@ -81,4 +81,4 @@ Please Note: *Google has not tested or verified the features or security of the 
   * [http://www.phpclasses.org/browse/package/2612.html PHP class] 
   * [http://www.bin-co.com/php/programs/tools/sitemap_generator/ PHP generator script] 
 
-If you believe that a tool should be added or removed for a legitimate reason, please leave a comment in the Webmaster Help Forum.
+If you believe that a tool should be added or removed for a legitimate reason, please leave a comment in the [http://www.google.com/support/forum/p/Webmasters/thread?tid=3c24ab67179a5f26&hl=en#all Webmaster Help Forum].
