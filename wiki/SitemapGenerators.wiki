@@ -73,6 +73,10 @@ Please Note: *Google has not tested or verified the features or security of the 
   * [http://www.smart-it-consulting.com/internet/google/submit-validate-sitemap/ Smart-IT-Consulting Google Sitemaps XML Validator] 
   * [http://www.xml-sitemaps.com/ XML-Sitemaps Generator]
 
+== CMS with integrated Sitemap generators ==
+  * [http://www.concrete5.org/ Concrete5]
+
+
 = Google News Sitemap Generators =
 
 The following plugins allow publishers to update [http://news.google.com/ Google News] Sitemap files, a variant of the [http://sitemaps.org/ sitemaps.org protocol] that we describe [http://www.google.com/support/news_pub/bin/topic.py?topic=11666 in our Help Center]. In addition to the normal properties of Sitemap files, Google News Sitemaps allow publishers to describe the types of content they publish, along with specifying levels of access for individual articles. More information about Google News can be found in our [http://www.google.com/support/news_pub/?hl=en Help Center] and [http://www.google.com/support/forum/p/news?hl=en Help Forums]. 
