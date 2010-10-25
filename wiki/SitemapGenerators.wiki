@@ -13,7 +13,7 @@ Please Note: *Google has not tested or verified the features or security of the 
   * [http://www.orvinfait.fr/generateur_sitmap_version.html Outil en PHP] (French, PHP)
   * [http://code.google.com/p/perlsitemapgenerator/ Perl Sitemap Generator] (Perl)
   * [http://code.google.com/p/sitemap-generators/ Python Sitemap Generator] (Python)
-  * [http://www.smart-it-consulting.com/article.htm?node=154&amp;page=82 Simple Sitemaps] (PHP)
+  * [http://www.smart-it-consulting.com/article.htm?node=154&page=82 Simple Sitemaps] (PHP)
   * [http://www.softswot.com/sitemapinfo.php SiteMap XML Dynamic Sitemap Generator] (PHP) $
   * [http://www.xml-sitemaps.com/standalone-google-sitemap-generator.html XML Sitemap Generator] (PHP) $
 
@@ -37,23 +37,21 @@ Please Note: *Google has not tested or verified the features or security of the 
   * [http://www.arnebrachhold.de/projects/wordpress-plugins/google-xml-sitemaps-generator/ WordPress] 
 
 == Downloadable Tools ==
-  * [http://www.expressionextras.com/toolbar/sitemap_builder.htm Expression Web Sitemap Builder] (Windows) $
   * [http://gsitecrawler.com/ GSiteCrawler] (Windows)
   * [http://trytobreak.com GWebCrawler & Sitemap Creator] (Windows)  
   * [http://www.dbnetsolutions.co.uk/gmapper/ G-Mapper] (Windows)
   * [http://www.inspyder.com/products/SitemapCreator/ Inspyder Sitemap Creator] (Windows) $
   * [http://www.intelli-mapper.com/ IntelliMapper] (Windows) $
-  * [http://www.brianpautsch.com/ShowItem25.aspx KeyLimeTie Sitemap Generator] (Windows) $ 
   * [http://www.micro-sys.dk/products/sitemap-generator/ Microsys A1 Sitemap Generator] (Windows) $
   * [http://www.ragesw.com/products/googlesitemap.html Rage Google Sitemap Automator] $ (OS-X)
   * [http://www.sitemappro.com/ Site Map Pro] (Windows) $
   * [http://www.sitemapwriter.com/ Sitemap Writer] (Windows) $
   * [http://devintelligence.com/sitemapgenerator/ Sitemap Generator by DevIntelligence] (Windows)
-  * [http://www.coffeecup.com/google-sitemapper/ Sitemapper by CoffeeCup] (Windows) $
   * [http://www.sorrowman.org/sitemap-tools/ Sorrowmans Sitemap Tools] (Windows)
   * [http://www.thesitemapper.com/ TheSiteMapper] (Windows) $
   * [http://www.vigos.com/products/gsitemap/ Vigos Gsitemap] (Windows)
   * [http://www.webdesignpros.ca/software/sitemapGenerator.html WebDesignPros Sitemap Generator] (Java Webstart Application)
+  * [http://www.illumit.com/weblight/ Weblight] (Windows/Mac) $
   * [http://wonderwebware.com/sitemap-generator/ WonderWebWare Sitemap Generator] (Windows)
 
 == Online Generators/Services ==
@@ -63,7 +61,6 @@ Please Note: *Google has not tested or verified the features or security of the 
   * [http://enarion.net/google/phpsitemapng/crawler/ Enarion phpSitemapsNG] 
   * [http://www.freesitemapgenerator.com/ Free Sitemap Generator] 
   * [http://www.neuroticweb.com/recursos/sitemap/ Neuroticweb.com Sitemap Generator] 
-  * [http://www.resourceseo.com/sitemaps.php ResourceSEO Online Sitemap Generator] 
   * [http://www.addme.com/ror-sitemap-generator.htm ROR Sitemap Generator] 
   * [http://www.scriptsocket.com/sitemaps.php ScriptSocket Sitemap Generator ] 
   * [http://www.seoutility.com/it/tools/google/sitemap_generator.aspx SeoUtility Sitemap Generator] (Italian)
