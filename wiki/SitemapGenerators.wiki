@@ -15,6 +15,7 @@ Please Note: *Google has not tested or verified the features or security of the 
   * [http://code.google.com/p/sitemap-generators/ Python Sitemap Generator] (Python)
   * [http://www.smart-it-consulting.com/article.htm?node=154&page=82 Simple Sitemaps] (PHP)
   * [http://www.softswot.com/sitemapinfo.php SiteMap XML Dynamic Sitemap Generator] (PHP) $
+  * [http://omniplex.om.funpic.de/src/sitemap.cmd Sitemap generator for OS/2] (REXX-script)
   * [http://www.xml-sitemaps.com/standalone-google-sitemap-generator.html XML Sitemap Generator] (PHP) $
 
 == CMS and Other Plugins ==
