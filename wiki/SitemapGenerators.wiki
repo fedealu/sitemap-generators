@@ -43,7 +43,7 @@ Please Note: *Google has not tested or verified the features or security of the 
   * [http://www.dbnetsolutions.co.uk/gmapper/ G-Mapper] (Windows)
   * [http://www.inspyder.com/products/SitemapCreator/ Inspyder Sitemap Creator] (Windows) $
   * [http://www.intelli-mapper.com/ IntelliMapper] (Windows) $
-  * [http://www.micro-sys.dk/products/sitemap-generator/ Microsys A1 Sitemap Generator] (Windows) $
+  * [http://www.microsystools.com/products/sitemap-generator/ Microsys A1 Sitemap Generator] (Windows) $
   * [http://www.ragesw.com/products/googlesitemap.html Rage Google Sitemap Automator] $ (OS-X)
   * [http://www.screamingfrog.co.uk/seo-spider/ Screaming Frog SEO Spider and Sitemap generator] (Windows/Mac) $
   * [http://www.sitemappro.com/ Site Map Pro] (Windows) $
