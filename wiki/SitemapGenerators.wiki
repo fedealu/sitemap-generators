@@ -52,6 +52,7 @@ Please Note: *Google has not tested or verified the features or security of the 
   * [http://www.sorrowman.org/sitemap-tools/ Sorrowmans Sitemap Tools] (Windows)
   * [http://www.thesitemapper.com/ TheSiteMapper] (Windows) $
   * [http://www.vigos.com/products/gsitemap/ Vigos Gsitemap] (Windows)
+  * [http://visual-seo.com/ Visual SEO Studio] (Windows)
   * [http://www.webdesignpros.ca/software/sitemapGenerator.html WebDesignPros Sitemap Generator] (Java Webstart Application)
   * [http://www.illumit.com/weblight/ Weblight] (Windows/Mac) $
   * [http://wonderwebware.com/sitemap-generator/ WonderWebWare Sitemap Generator] (Windows)
