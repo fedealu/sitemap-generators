@@ -71,6 +71,7 @@ Please Note: *Google has not tested or verified the features or security of the 
   * [http://www.sitemapspal.com/ Sitemapspal] 
   * [http://www.sitemapsubmit.net/generate-sitemap SitemapSubmit] 
   * [http://www.smart-it-consulting.com/internet/google/submit-validate-sitemap/ Smart-IT-Consulting Google Sitemaps XML Validator] 
+  * [http://xmlsitemapgenerator.org/ XML Sitemap Generator]
   * [http://www.xml-sitemaps.com/ XML-Sitemaps Generator]
 
 == CMS with integrated Sitemap generators ==
