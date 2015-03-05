@@ -1,5 +1,9 @@
-#summary A list of discussion groups with webmasters using sitemaps.org Sitemap files
 #labels Featured
+= This Google Code project is deprecated and no longer maintained. =
+
+----
+
+#summary A list of discussion groups with webmasters using sitemaps.org Sitemap files
 
 = Introduction =
 
