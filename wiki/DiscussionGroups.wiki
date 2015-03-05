@@ -1,4 +1,3 @@
-#labels Featured
 = This Google Code project is deprecated and no longer maintained. =
 
 ----
